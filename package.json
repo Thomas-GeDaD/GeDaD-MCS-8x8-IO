@@ -1,14 +1,14 @@
 {
-  "name": "@signalk/embedded-plugin-example",
-  "version": "1.0.0",
-  "description": "Example of a plugin that provides an embdded configuration UI",
-  "repository": "github:SignalK/embedded-plugin-example",
+  "name": "GeDaD-MCS-8x8-IO ",
+  "version": "0.0.1",
+  "description": "A Plugin to configure and use GeDaD Addon Modul (8x8 I/O)",
+  "repository": "https://github.com/Thomas-GeDaD/GeDaD-MCS-8x8-IO",
   "main": "index.js",
   "keywords": [
     "signalk-node-server-plugin",
     "signalk-plugin-configurator"
   ],
-  "author": "Teppo Kurki <teppo.kurki@iki.fi>",
+  "author": "Thomas Gersmann <t.gersmann@gedad.de>",
   "scripts": {
     "prepublishOnly": "npm run clean && npm run build",
     "dev": "webpack --watch --mode development",
