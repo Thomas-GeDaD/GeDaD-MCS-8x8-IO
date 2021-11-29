@@ -1,0 +1,22 @@
+.Header {
+    background-color: rgb(7, 107, 102);
+    height: 20px;
+    padding: 20px;
+    color: black;
+  }
+
+.Table {
+    border: 1px solid black;
+    width: 100%;
+    border-collapse: collapse;
+    text-align: center;
+    margin-bottom: 20px;
+
+
+}
+
+
+.tdStyle  {
+  	border: 1px solid black;
+    border-collapse: collapse;
+}
